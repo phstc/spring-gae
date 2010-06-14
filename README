@@ -1,0 +1,5 @@
+Spring MVC 3 GAE Compatibility
+
+mvn clean install
+
+To copy maven dependencies to war/WEB-INF/lib
