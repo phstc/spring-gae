@@ -1,3 +1,5 @@
+Web Application Project (GAE Eclipse plugin)
+
 Spring MVC 3 GAE Compatibility
 
 mvn clean install
