@@ -7,7 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HelloController {
 
-	@RequestMapping(value = "/helloWorld")
+	@RequestMapping(value = "/helloWorld.html")
 	public ModelAndView helloWorld() {
 		ModelAndView mav = new ModelAndView();
 		mav.setViewName("helloWorld");
