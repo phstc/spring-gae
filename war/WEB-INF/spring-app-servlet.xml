@@ -45,4 +45,11 @@
 
     <bean id="viewController" class="org.springframework.web.servlet.mvc.UrlFilenameViewController"/>
 	-->
+	
+	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+	    <property name="webBindingInitializer">
+	        <bean class="com.cantero.test.BindingInitializer"/>
+	    </property>
+	</bean>
+
 </beans>
