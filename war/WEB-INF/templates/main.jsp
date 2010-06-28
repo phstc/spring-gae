@@ -9,7 +9,7 @@
 <body>
 <div id="header">
     <div id="headerTitle">
-    	*header:<br/>
+    	header main template:<br/>
     	<tiles:insertAttribute name="header" />
     </div>
 </div>

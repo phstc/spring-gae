@@ -19,7 +19,7 @@
 
   <servlet-mapping>
      <servlet-name>spring-app</servlet-name>
-     <url-pattern>*.html</url-pattern>
+     <url-pattern>*.do</url-pattern>
   </servlet-mapping>
 
   <welcome-file-list>
