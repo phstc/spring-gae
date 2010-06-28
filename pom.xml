@@ -46,18 +46,6 @@
 			<artifactId>tiles-servlet</artifactId>
 			<version>2.1.2</version>
 		</dependency>
-		<!--
-			<dependency> <groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-servlet-wildcard</artifactId>
-			<version>2.1.2</version> </dependency> <dependency>
-			<groupId>org.apache.tiles</groupId> <artifactId>tiles-el</artifactId>
-			<version>2.1.2</version> </dependency>
-		-->
-		<!--
-			<dependency> <groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId> <version>3.0.0.RC1</version>
-			</dependency>
-		-->
 		<dependency>
 			<groupId>org.springbyexample</groupId>
 			<artifactId>org.springbyexample.dynamic.tiles2</artifactId>
@@ -88,11 +76,6 @@
 			<groupId>commons-logging</groupId>
 			<artifactId>commons-logging</artifactId>
 			<version>1.1.1</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId>
-			<version>3.0.0.RELEASE</version>
 		</dependency>
 	</dependencies>
 	<build>
