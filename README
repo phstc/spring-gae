@@ -1,7 +1,9 @@
-Web Application Project (GAE Eclipse plugin)
+This a Web Application Blank Project using Google Plugin for Eclipse + Maven + Spring MVC 3 with GAE Compatibility libraries
 
-Spring MVC 3 GAE Compatibility
-
+Run (for fist checkout and always after add library to pom.xml)
 mvn clean install
 
 To copy maven dependencies to war/WEB-INF/lib
+
+This post (in portuguse) explain the GAE + Eclipse + Maven usage
+http://pablocantero.com/blog/2010/08/20/gae-eclipse-maven/
