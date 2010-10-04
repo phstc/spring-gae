@@ -1,6 +1,6 @@
 This a Web Application Blank Project using Google Plugin for Eclipse + Maven + Spring MVC 3 with GAE Compatibility libraries
 
-Run (for fist checkout and always after add library to pom.xml)
+Run (for first checkout and always after add library to pom.xml)
 mvn clean install
 
 To copy maven dependencies to war/WEB-INF/lib
